@@ -86,5 +86,3 @@ To further evaluate our models, we created a dataset of 200 handwritten digit im
 3. TensorFlow. Handwritten digit recognition with CNNs. [TensorFlow Tutorial](https://www.tensorflow.org/js/tutorials/training/handwritten_digit_cnn)
 4. Tuning the hyper-parameters of an estimator. [Scikit-Learn Documentation](https://scikit-learn.org/stable/modules/grid_search.html)
 ---
-
-This project was an exciting exploration into the capabilities of various machine learning techniques in the realm of digit recognition. We hope our findings contribute to the broader understanding and development of effective image classification models.
